@@ -6,8 +6,8 @@
 🤝 Open to collaboration on AI, data-driven research, and analytical projects  
 
 ## 🚀 What I’m Working On
-- Applying machine learning to solve real-world problems  
-- Exploring data-driven insights in economics  
+- Applying AI to solve real-world problems  
+- Exploring data-driven insights   
 - Building visual dashboards with Power BI  
 - Expanding skills in Python and R for statistical modeling  
 
