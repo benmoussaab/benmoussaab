@@ -1,7 +1,7 @@
 # Hey 👋, I'm Benselmi Moussaab
 
 🎓 Data Science & Statistics Graduate  
-📈 Passionate about Machine Learning, AI, Data Analysis, and Economics  
+📈 Passionate about AI and Data Analysis  
 🧠 Always eager to explore new technologies and real-world data challenges  
 🤝 Open to collaboration on AI, data-driven research, and analytical projects  
 
@@ -9,18 +9,16 @@
 - Applying AI to solve real-world problems  
 - Exploring data-driven insights   
 - Building visual dashboards with Power BI  
-- Expanding skills in Python and R for statistical modeling  
 
 ---
 
 **Languages & Tools**  
-- **Programming**: Python, R  
+- **Programming**: Python  
 - **Data Visualization**: Power BI, Matplotlib, Seaborn  
 - **Databases**: PostgreSQL  
 
 ## 💻 I code with
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
 ## 🌐 Connect with me
