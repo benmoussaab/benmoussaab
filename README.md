@@ -1,6 +1,6 @@
 # Hey 👋, I'm Benselmi Moussaab
 
-🎓 5th Year Student in Statistics and Data Science  
+🎓 Data Science & Statistics Graduate  
 📈 Passionate about Machine Learning, AI, Data Analysis, and Economics  
 🧠 Always eager to explore new technologies and real-world data challenges  
 🤝 Open to collaboration on AI, data-driven research, and analytical projects  
