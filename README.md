@@ -14,12 +14,15 @@
 
 **Languages & Tools**  
 - **Programming**: Python  
-- **Data Visualization**: Power BI, Matplotlib, Seaborn  
+- **Data Analysis**: Excel, Power BI, Matplotlib, Seaborn  
 - **Databases**: PostgreSQL  
 
 ## 💻 I code with
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com)
